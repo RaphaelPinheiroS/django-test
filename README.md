@@ -1,1 +1,1 @@
-# python-test
+# django-test
