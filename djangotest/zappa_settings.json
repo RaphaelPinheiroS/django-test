@@ -1,7 +1,7 @@
 {
     "dev": {
         "aws_region": "sa-east-1",
-        "django_settings": "djangotest.djangotest.settings",
+        "django_settings": "djangotest.settings",
         "profile_name": "default",
         "project_name": "djangotest",
         "runtime": "python3.8",
